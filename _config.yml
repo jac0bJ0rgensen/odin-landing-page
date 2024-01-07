@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Følg alarmer
     description                           : Se de nyeste alarmer som brandvæsnet er rykket ud til
-    fontawesome_icon_name                 : car-on
+    fontawesome_icon_name                 : list-ul
     
   - title                                 : Favoritter
     description                           : Du har mulighed for at vælge dine favorit stationer
