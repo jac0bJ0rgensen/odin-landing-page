@@ -40,7 +40,7 @@ features                                  :
     description                           : Se de nyeste alarmer som brandvæsnet er rykket ud til
     fontawesome_icon_name                 : car-on
     
-        - title                           : Favoritter
+  - title                                 : Favoritter
     description                           : Du har mulighed for at vælge dine favorit stationer
     fontawesome_icon_name                 : heart
 
