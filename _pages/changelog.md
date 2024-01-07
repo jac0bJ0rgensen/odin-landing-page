@@ -10,6 +10,6 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-Lets you follow the different fire stations in Denmark in relation to which alarms they have. You have the option to follow specific stations so that you can receive relevant notifications about new alarms.
+This service allows you to monitor various fire stations across Denmark with respect to the alarms they handle. It offers the functionality to subscribe to specific stations, enabling you to receive timely notifications about new alarms that are relevant to your chosen favorites.
 
 <br>
