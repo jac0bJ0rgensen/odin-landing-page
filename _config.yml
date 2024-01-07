@@ -37,8 +37,16 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Følg alarmer
-    description                           : Få opdateringer så snart nye alarmer er registeret i ODIN databasen
-    fontawesome_icon_name                 : light-emergency-on
+    description                           : Se de nyeste alarmer som brandvæsnet er rykket ud til
+    fontawesome_icon_name                 : car-on
+    
+        - title                           : Favoritter
+    description                           : Du har mulighed for at vælge dine favorit stationer
+    fontawesome_icon_name                 : heart
+
+  - title                                 : Notifikationer
+    description                           : Få besked så snart nye alarmer for dine favoritter er registeret i ODIN databasen
+    fontawesome_icon_name                 : bell
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
