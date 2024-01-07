@@ -70,8 +70,8 @@ body_background_color                     : "#ffffff"
 link_color                                : "#D24545"
 
 app_title_color                           : "#000000"
-app_price_color                           : "#000000"
-app_description_color                     : "#000000"
+app_price_color                           : "#D24545"
+app_description_color                     : "#666666"
 
 feature_title_color                       : "#D24545"
 feature_text_color                        : "#666666"
