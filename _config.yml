@@ -55,7 +55,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#D24545"
+topbar_color                              : "#e6e6e6"
 topbar_transparency                       : 1
 topbar_title_color                        : "#000000"
 
