@@ -5,9 +5,12 @@
              "appIDs":[
                 "ZQ39RZG45U.dk.jjj.staging.odin"
              ],
-             "paths": [
-                    "/app/*",
-                ]
+             "components":[
+                {
+                   "/":"/app/*",
+                   "comment":"Open all pages in the app that are not om-nemlig or has openInApp=false"
+                }
+             ],
              "defaults":{
                 "caseSensitive":false
              }
