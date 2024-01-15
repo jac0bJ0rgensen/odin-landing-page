@@ -7,25 +7,7 @@
              ],
              "components":[
                 {
-                   "/":"/om-nemlig/*",
-                   "exclude":true,
-                   "comment":"Matches any URL whose path starts with /om-nemlig/ and instructs the system not to open it as a universal link"
-                },
-                {
-                   "/":"/om-nemlig",
-                   "exclude":true,
-                   "comment":"Matches any URL whose path starts with /om-nemlig and instructs the system not to open it as a universal link"
-                },
-                {
-                   "/":"/*",
-                   "?":{
-                      "openInApp":"false"
-                   },
-                   "exclude":true,
-                   "comment":"Matches any URL with a path that starts with / and that has a query item with name 'openInApp."
-                },
-                {
-                   "/":"/*",
+                   "/":"/app/*",
                    "comment":"Open all pages in the app that are not om-nemlig or has openInApp=false"
                 }
              ],
