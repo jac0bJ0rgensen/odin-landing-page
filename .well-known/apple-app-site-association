@@ -3,12 +3,12 @@
        "details":[
           {
              "appIDs":[
-                "ZQ39RZG45U.dk.jjj.staging.odin"
+                "ZQ39RZG45U.dk.jjj.staging.odin", "ZQ39RZG45U.dk.jjj.odin"
              ],
              "components":[
                 {
                    "/":"/app/*",
-                   "comment":"Open all pages in the app that are not om-nemlig or has openInApp=false"
+                   "comment":"Open all pages in the app that are prefixed with /app"
                 }
              ],
              "defaults":{
